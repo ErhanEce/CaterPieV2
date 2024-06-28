@@ -1,70 +1,22 @@
-# Getting Started with Create React App
+CATERPIE Proje Tanımı: Caterpie isimli sitemiz online bir ticaret ve alışveriş sitesidir. Geniş ürün yelpazesine sahip, kullanıcı dostu arayüzü, hızlı teslimat seçenekleri ve kolay ödeme imkanları ile siz kullanıcılarımıza iyi bir alışveriş imkanı sunuyoruz. Müşterilerimiz aradıkları ürünleri rahatça bulurken aynı zamanda satın alma süreçlerinde de sorunsuz geçmesini hedefliyoruz. Müşterilerimiz bizim için her şeyden önce gelir. Caterpie ticaret ve alışveriş sitemize hoş geldiniz.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Proje Kategorisi: Caterpie bir ticaret ve alışveriş sitesidir.
 
-## Available Scripts
+Referans Uygulama: https://www.trendyol.com/
 
-In the project directory, you can run:
+Uygulama Adresi:
 
-### `npm start`
+Grup Adı: Pikapika
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Proje Ekibi: Erhan Ece, Abdullah Deniz Tonka, Saadet Gökbulut, Dilek Gül, Esra Özkutlu
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Proje Planı
+Gereksinim Analizi
+Durum Diyagramı
+Durum Senaryoları
+Veri Tabanı Diyagramı
+Front-End
+Back-End
+Test
+Dokümantasyon
+Sitemizin Youtube Linki: https://www.youtube.com/watch?v=FbosNQw4PJg
